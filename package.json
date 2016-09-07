@@ -1,6 +1,6 @@
 {
   "name": "array-remove-item",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Remove item from array",
   "main": "dist/array-remove-item.js",
   "scripts": {
